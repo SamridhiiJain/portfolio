@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Grandstander:ital,wght@0,100..900;1,100..900&display=swap');
+
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: "Grandstander", cursive;
+    font-optical-sizing: auto;
+    font-weight:bold;
+    font-style: normal;
+}
+.logo{
+    width: 250px;
+}
+.icon{
+    color:#50D890;
+
+}
